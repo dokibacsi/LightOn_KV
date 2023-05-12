@@ -1,0 +1,14 @@
+article{
+    width: 25%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+article div{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+}
